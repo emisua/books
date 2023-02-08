@@ -41,7 +41,7 @@ The following configs are included:
 - [eslint-config-prettier](https://www.npmjs.com/package/eslint-config-prettier)
 
 #### Prettier
-[Prettier](https://prettier.io/) is preconfigured. For the current configuration check the [./prettierrc.cjs](./prettierrc.cjs) file.
+[Prettier](https://prettier.io/) is preconfigured. For the current configuration check the [./.prettierrc.cjs](./.prettierrc.cjs) file.
 
 #### Husky
 Check out [husky](https://typicode.github.io/husky/#/). Currently it is configured with a pre-commit hook that checks your code.
